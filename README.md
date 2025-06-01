@@ -1,4 +1,4 @@
-The study involves prediction of direction and periodic return involving entire data set as well as clusters created out of the main dataset usign traditional machine learning algorithms. For prediction of direction following algorithms have been used - multinomial logistic regression, Naive Bayes, Decision Tree, Random Forest, SVM and ANN. For Prediction of periodic return Ridge , LASSO and Spline have been used. 
+The study involves prediction of direction and periodic return involving entire data set as well as clusters created out of the main dataset usign traditional machine learning algorithms. For prediction of direction following algorithms have been used - multinomial logistic regression, Naive Bayes, Decision Tree, Random Forest, SVM and ANN. For Prediction of periodic return Ridge , LASSO and Spline have been used. Further, it will also examine the trading performance based the ML algorithms for the entire data as well as for the clusters. And examine the robustness of the recommendations.  
 
 There are 5 clusters created based direction of movement of stock market and volatility. Following are the name of the files created for various prediction.
 
